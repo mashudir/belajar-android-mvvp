@@ -8,4 +8,9 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="nama_lengkap">Nama lengkap</string>
+    <string name="ic_home">Beranda</string>
+    <string name="ic_news">Berita</string>
+    <string name="ic_favorit">Favorit</string>
+    <string name="ic_profile">Profile</string>
+    <string name="ic_manga">Manga</string>
 </resources>
